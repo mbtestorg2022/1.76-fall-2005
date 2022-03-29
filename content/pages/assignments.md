@@ -16,13 +16,13 @@ ASSIGNMENTS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/pset1))
+Problem Set 1 ([PDF]({{< baseurl >}}/resources/pset1))
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/pset2))
+Problem Set 2 ([PDF]({{< baseurl >}}/resources/pset2))
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -8,4 +8,4 @@ A practice exam was provided to the class as a study guide to the final.
 
 *   Practice Exam ([PDF]({{< baseurl >}}/resources/practice))
     
-*   Solution (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/solution))
+*   Solution ([PDF]({{< baseurl >}}/resources/solution))
